@@ -1,4 +1,4 @@
-#A blockchain without boundaries.
+# A blockchain without boundaries.
 
 The following instructions will walk you through the process of setting up a portable Burstcoin node. This node is fully
 capable of running a node, a miner, as well as hosting a shared or tethered network. This could be critical to use as we
