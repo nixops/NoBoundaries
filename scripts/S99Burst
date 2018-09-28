@@ -1,0 +1,10 @@
+#!/bin/sh
+#
+# Start burst wallet
+export PATH=$PATH:/DataVolume/things/jdk/bin/
+export JAVA_HOME=/DataVolume/things/jdk/
+
+cd /DataVolume/burst
+nohup ./burst.sh &
+
+# Hack but works#
