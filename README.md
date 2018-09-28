@@ -7,7 +7,7 @@ have demonstrated with the Proof of Life.
 Proof of Life:
 
 
-#Requirements
+# Requirements
 1. WD MyPassport Wireless Pro
 2. An ssh client.
 3. A device that you can connect to the drive's network to verify it is working.
@@ -16,7 +16,7 @@ Proof of Life:
 
 
 
-#How-to:
+# How-to:
 
 1. Make sure that the drive is reset to stock, you can do this by turning it on and holding the power and wps button at 
 same time for 10 seconds to accomplish this.
@@ -57,14 +57,14 @@ MyPassport.local:8125
 192.168.60.1:8125
 
 
-#Extending functionality
+# Extending functionality
 You can connect this to any device that is supported or can be supported by Linux. This is important as it could allow you 
 to get very creative on use of either a radio and or some other SDR projects. You can also use a handheld amateur radio 
 as a modem in order to transmit, YOU MUST BE LICENSED. This drive can be powered by solar or crank power under extreme 
 duress. The goal of this project was to demonstrate you could do this anywhere and anytime, if you had to.
 
 
-#TODO
+# TODO
 1. Adding miner instructions, this was dropped as in a case of extreme scenarios we may need to just transmit various confirmations
 of life. (this is working now, but needs to be simplified).
 2. One button install, at this time about 75% reliable. Still addressing issues
