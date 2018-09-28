@@ -4,7 +4,7 @@ The following instructions will walk you through the process of setting up a por
 capable of running a node, a miner, as well as hosting a shared or tethered network. This could be critical to use as we
 have demonstrated with the Proof of Life.
 
-Proof of Life:
+Proof of Life: https://medium.com/@nixops_56291/proof-of-life-resurrecting-technology-653167c5763a
 
 
 # Requirements
