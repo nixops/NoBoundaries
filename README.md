@@ -7,6 +7,10 @@ have demonstrated with the Proof of Life.
 Proof of Life: https://medium.com/@nixops_56291/proof-of-life-resurrecting-technology-653167c5763a
 
 
+All features of the drive shipped by Western Digital still work with and after this installation. Even the mobile app works
+as well as desktop apps. This is only adding a burst node to the functionality of the device, which could be extended to add
+more features needed.
+
 # Requirements
 1. WD MyPassport Wireless Pro
 2. An ssh client.
