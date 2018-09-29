@@ -45,7 +45,7 @@ in the S99 script.
 
 9. You can now exit the shell.
 
-10. Copy the configs/brs-default.properties file over to your burstcoin directory/conf. 
+10. Copy the configs/brs-default.properties file over to your burstcoin directory/conf. (modify it if you want, but default is h2)
 
 Restart the WD Wireless Pro.
 
