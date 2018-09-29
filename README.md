@@ -50,7 +50,6 @@ in the S99 script.
 Restart the WD Wireless Pro.
 
 
-
 # Accessing the node.
 
 Inside the 192.168.60.1 default settings you can change what wifi you are accessing and broadcasting. This is important
@@ -66,6 +65,22 @@ You can connect this to any device that is supported or can be supported by Linu
 to get very creative on use of either a radio and or some other SDR projects. You can also use a handheld amateur radio 
 as a modem in order to transmit, YOU MUST BE LICENSED. This drive can be powered by solar or crank power under extreme 
 duress. The goal of this project was to demonstrate you could do this anywhere and anytime, if you had to.
+
+# Tools
+The following are a list of tools that you could run on another device to connect to the drive. These tools further the 
+uses of the drive and deployment options.
+
+Burst Messaging:
+Built into the wallet, so anyone with access to a browser can access the messaging service on chain in the wallet.
+
+CloudBurst : https://github.com/CurbShifter/CloudBurstDAPP
+CloudBurst can be used to upload documents, immutably to the chain. This is not an ipfs hack, a real on chain storage.
+
+BurstCoupon: https://github.com/CurbShifter/BurstCoupon
+BurstCoupon can be used to distribute coins in a voucher model that can be claimed through a browser.
+
+PChains: http://burst-marketplace.binary-dev.com/pchains/documentations/doc.php
+Service built on chain to provide private blockchains using the Burst Messaging.
 
 
 # TODO
