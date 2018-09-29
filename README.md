@@ -84,7 +84,7 @@ Service built on chain to provide private blockchains using the Burst Messaging.
 
 
 # TODO
-1. Adding miner instructions, this was dropped as in a case of extreme scenarios we may need to just transmit various confirmations
+1. Adding miner instructions, this was dropped as in a case of extreme scenarios we may need to just transmit various communications
 of life. (this is working now, but needs to be simplified).
 2. One button install, at this time about 75% reliable. Still addressing issues
 3. Adding a functional piece to the UI to ease use of the wallet.
