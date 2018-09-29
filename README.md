@@ -1,6 +1,6 @@
 # A blockchain without boundaries.
 
-The following instructions will walk you through the process of setting up a portable Burstcoin node. This node is fully
+The following instructions will walk you through the process of setting up a portable Burstcoin node. This device is fully
 capable of running a node, a miner, as well as hosting a shared or tethered network. This could be critical to use as we
 have demonstrated with the Proof of Life.
 
@@ -12,11 +12,11 @@ as well as desktop apps. This is only adding a burst node to the functionality o
 more features needed.
 
 # Requirements
-1. WD MyPassport Wireless Pro
+1. [WD MyPassport Wireless Pro] https://www.wdc.com/products/portable-storage/my-passport-wireless-pro.html
 2. An ssh client.
 3. A device that you can connect to the drive's network to verify it is working.
 4. Patience, syncing from genesis block can take some time.
-5. Download the burst wallet: https://github.com/PoC-Consortium/burstcoin/releases/download/2.2.3/burstcoin-2.2.3.zip
+5. Download the burst wallet: https://github.com/PoC-Consortium/burstcoin/releases/
 
 
 
