@@ -12,7 +12,7 @@ as well as desktop apps. This is only adding a burst node to the functionality o
 more features needed.
 
 # Requirements
-1. [WD MyPassport Wireless Pro] https://www.wdc.com/products/portable-storage/my-passport-wireless-pro.html
+1. WD MyPassport Wireless Pro: https://www.wdc.com/products/portable-storage/my-passport-wireless-pro.html
 2. An ssh client.
 3. A device that you can connect to the drive's network to verify it is working.
 4. Patience, syncing from genesis block can take some time.
