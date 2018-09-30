@@ -62,7 +62,7 @@ MyPassport.local:8125
 # Radio Peer
 
 Please use the following host if you are demoing via radio: useburst.com(non encrypted) as your peer. This is important as if you use it
-it is non ssl and is only there as accessible per requirements of the project.
+it is non ssl and is only there as accessible per requirements of the project. 
 
 
 # Mounting a radio as a modem
@@ -100,7 +100,16 @@ of life. (this is working now, but needs to be simplified).
 2. One button install, at this time about 75% reliable. Still addressing issues
 3. Adding a wallet icon and link into the admin console.
 4. Provide build root instructions for cross compiling.
+5. GPG support is being added and rust. 
 
 # Notes
 More of the toolchains and cross compiling steps are being added. 
+
+
+# Factory Reset
+
+If you factory reset, you will only need to setup the S99 script as the rest is still in the default stored directories you have
+used. If you do encounter issues, just factory reset a few times and it will actually recover.
+
+If you have questions or comments, ask away.
 
