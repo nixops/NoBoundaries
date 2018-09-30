@@ -1,0 +1,45 @@
+# Build machine data
+build=x86_64-unknown-linux-gnu
+host=i686-w64-mingw32
+target=arm-linux-gnueabihf
+kernel=3.16.0-4-amd64
+hostname=ex40-09
+distribution=jessie
+host_gcc=gcc version 4.9.2 (Debian 4.9.2-10) 
+
+Component versions
+gmp_versionnum=6.0.0a
+mpc_versionnum=1.0.3
+mpfr_versionnum=3.1.3
+
+# Binutils
+binutils_branch=binutils-gdb.git~linaro_binutils-2_25-branch
+binutils_revision=ef90a4718f535cbe6345b4e7168baea7b1972abf
+binutils_version=binutils-gdb.git@ef90a4718f535cbe6345b4e7168baea7b1972abf
+
+# DejaGnu
+dejagnu_version=dejagnu.git/linaro
+
+# GDB
+gdb_branch=binutils-gdb.git~gdb-7.10-branch
+
+gdb_revision=cec9b4821711367dbefd51386eb663ba30905aa6
+gdb_version=binutils-gdb.git@cec9b4821711367dbefd51386eb663ba30905aa6
+
+# GCC
+gcc_branch=gcc-linaro-5.2-2015.11-2.tar.xz
+
+# C Library
+clibrary=glibc
+libc_version=bb6251a0511991211907dc4629ac56de53edc841
+
+# Kernel
+linux_version=linux-linaro-4.0-rc4-2015.03
+
+# Abe revision used
+abe_revision=bb6251a0511991211907dc4629ac56de53edc841
+abe_version="abe.git@bb6251a0511991211907dc4629ac56de53edc841"
+
+glibc_version=glibc.git~release/2.21/master
+glibc_revision=dbcaca73cb0a19698ea1b424087e8997a9b7c3c4
+---------------------------------------------
