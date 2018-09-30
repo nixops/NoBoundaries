@@ -61,7 +61,7 @@ MyPassport.local:8125
 
 # Radio Peer
 
-Please use the following host if you are demoing via radio: useburst.com as your peer. This is important as if you use it
+Please use the following host if you are demoing via radio: useburst.com(non encrypted) as your peer. This is important as if you use it
 it is non ssl and is only there as accessible per requirements of the project.
 
 
@@ -101,3 +101,4 @@ of life. (this is working now, but needs to be simplified).
 
 # Notes
 More of the toolchains and cross compiling steps are being added. 
+
