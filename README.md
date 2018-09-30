@@ -67,7 +67,9 @@ it is non ssl and is only there as accessible per requirements of the project.
 
 # Mounting a radio as a modem
 This device ships with a fully functioning linux operating system, you can mount any device that would be used on a desktop
-or laptop on this device. This also goes for a variety of networking options. There is a lot to be explored.
+or laptop on this device. This also goes for a variety of networking options. There is a lot to be explored. At this time
+we are working to 100% simplify this, once done it will be updated here to reflect that. But for the impatient, you can do
+some digging and find what you need for this.
 
 # Extending functionality
 You can connect this to any device that is supported or can be supported by Linux. This is important as it could allow you 
