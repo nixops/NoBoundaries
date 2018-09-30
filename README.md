@@ -56,6 +56,7 @@ as this can allow you to tether the device to mobile and or other sources. To ac
 to either of the following URLS:
 
 MyPassport.local:8125
+
 192.168.60.1:8125
 
 
