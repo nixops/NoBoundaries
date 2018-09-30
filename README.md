@@ -104,7 +104,9 @@ of life. (this is working now, but needs to be simplified).
 5. GPG support is being added and rust. 
 
 # Notes
-More of the toolchains and cross compiling steps are being added. 
+More of the toolchains and cross compiling steps are being added. The toolkits and all are files and things I used to go 
+through several iterations of this device. Some features are being worked on for future simplified setup as well as
+configurations.
 
 
 # Factory Reset
