@@ -49,7 +49,6 @@ in the S99 script.
 
 Restart the WD Wireless Pro.
 
-
 # Accessing the node.
 
 Inside the 192.168.60.1 default settings you can change what wifi you are accessing and broadcasting. This is important
@@ -59,6 +58,16 @@ to either of the following URLS:
 MyPassport.local:8125
 192.168.60.1:8125
 
+
+# Radio Peer
+
+Please use the following host if you are demoing via radio: useburst.com as your peer. This is important as if you use it
+it is non ssl and is only there as accessible per requirements of the project.
+
+
+# Mounting a radio as a modem
+This device ships with a fully functioning linux operating system, you can mount any device that would be used on a desktop
+or laptop on this device. This also goes for a variety of networking options. There is a lot to be explored.
 
 # Extending functionality
 You can connect this to any device that is supported or can be supported by Linux. This is important as it could allow you 
@@ -88,4 +97,7 @@ Service built on chain to provide private blockchains using the Burst Messaging.
 of life. (this is working now, but needs to be simplified).
 2. One button install, at this time about 75% reliable. Still addressing issues
 3. Adding a wallet icon and link into the admin console.
+4. Provide build root instructions for cross compiling.
 
+# Notes
+More of the toolchains and cross compiling steps are being added. 
