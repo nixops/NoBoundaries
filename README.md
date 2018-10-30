@@ -1,3 +1,7 @@
+
+# Contest is over, now the real work begins. New version upcoming including all drivers and miner details. 
+
+
 # A blockchain without boundaries.
 
 The following instructions will walk you through the process of setting up a portable Burstcoin node. This device is fully
@@ -63,7 +67,9 @@ MyPassport.local:8125
 # Radio Peer
 
 Please use the following host if you are demoing via radio: useburst.com(non encrypted) as your peer. This is important as if you use it
-it is non ssl and is only there as accessible per requirements of the project. 
+it is non ssl and is only there as accessible per requirements of the project. Please be aware of any and all radio operator
+laws in your country/region. We are not responsible for any legal action you may or may not encounter if you do not adhere to 
+those laws.
 
 
 # Mounting a radio as a modem
@@ -95,10 +101,11 @@ PChains: http://burst-marketplace.binary-dev.com/pchains/documentations/doc.php
 Service built on chain to provide private blockchains using the Burst Messaging.
 
 
+
 # TODO
 1. Adding miner instructions, this was dropped as in a case of extreme scenarios we may need to just transmit various communications
-of life. (this is working now, but needs to be simplified).
-2. One button install, at this time about 75% reliable. Still addressing issues
+of life. (this is working now, but needs to be simplified). 
+2. One button install, at this time about 85% reliable. Still addressing issues
 3. Adding a wallet icon and link into the admin console.
 4. Provide build root instructions for cross compiling.
 5. GPG support is being added and rust. 
