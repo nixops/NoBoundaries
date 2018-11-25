@@ -39,7 +39,7 @@ eight alpha numeric characters in the serial number printed on the bottom.
 5. Now from your laptop/desktop please execute the following command: ssh root@192.168.60.1 and use the defined password.
 
 6. Once you are logged in, you will now need to move some files to a location on the drive. So first lets navigate to the 
-Passport storage drive. In here create a folder, any name you choose. Do note the name you choose will need to be updated
+Passport storage drive(/DataVolume/). In here create a folder, any name you choose. Do note the name you choose will need to be updated
 in the S99 script.
 
 7. Once there, copy and uncompress the burst wallet as well as the JDK. 
@@ -104,10 +104,10 @@ Service built on chain to provide private blockchains using the Burst Messaging.
 
 # TODO
 1. Adding miner instructions, this was dropped as in a case of extreme scenarios we may need to just transmit various communications
-of life. (this is working now, but needs to be simplified). 
+of life. (testing installer). 
 2. One button install, at this time about 85% reliable. Still addressing issues
-3. Adding a wallet icon and link into the admin console.
-4. Provide build root instructions for cross compiling.
+3. Adding a wallet icon and link into the admin console. (in testing)
+4. Provide build root instructions for cross compiling. 
 5. GPG support is being added and rust. 
 
 # Notes
